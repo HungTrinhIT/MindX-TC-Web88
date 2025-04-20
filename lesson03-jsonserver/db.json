@@ -55,6 +55,18 @@
       "content": "Learning Agile/Scrum",
       "userId": "US002",
       "views": 50
+    },
+    {
+      "views": 101,
+      "content": "Learning JWT 20 April 2025",
+      "userId": "US001",
+      "id": "PS006"
+    },
+    {
+      "id": "PS007",
+      "content": "Learning NodeJS",
+      "userId": "US002",
+      "views": 115
     }
   ],
   "comments": [
