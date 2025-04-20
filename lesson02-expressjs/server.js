@@ -137,7 +137,7 @@ app.post('/students/', (req, res) => {
 
   students.push(newStudent);
 
-  res.json({
+  res.status(201).json({
     message: 'Student is created successfully',
   });
 });
